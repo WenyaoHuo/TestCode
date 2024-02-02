@@ -1,0 +1,10 @@
+.filter {
+  display: flex;
+  align-items: center;
+  margin-top: 12px;
+}
+
+.sort {
+  margin-top: 12px;
+}
+
